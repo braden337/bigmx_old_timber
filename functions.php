@@ -54,3 +54,18 @@ function myfoo( $text ) {
 	$text .= ' bar!';
 	return $text;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

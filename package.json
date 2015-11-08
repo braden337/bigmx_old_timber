@@ -1,0 +1,27 @@
+{
+  "name": "bigmx",
+  "version": "1.0.0",
+  "description": "Timber WP theme for BIGMX",
+  "main": "index.php",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braden337/bigmx.git"
+  },
+  "author": "braden337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braden337/bigmx/issues"
+  },
+  "homepage": "https://github.com/braden337/bigmx#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
